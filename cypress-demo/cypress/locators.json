@@ -1,0 +1,15 @@
+{
+  "Homepage": {
+    "nameBox": "body > app-root > form-comp > div > form > div:nth-child(1) > input",
+
+    "emailBox": "body > app-root > form-comp > div > form > div:nth-child(2) > input",
+
+    "passwordBox": "#exampleInputPassword1",
+
+    "genderBox": "#exampleFormControlSelect1",
+
+    "employmentStatus": "body > app-root > form-comp > div > form > div:nth-child(7) > div:nth-child(3) > label",
+
+    "submitButton": "body > app-root > form-comp > div > form > input"
+  }
+}

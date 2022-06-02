@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://rahulshettyacademy.com/angularpractice/",
+
+  "testFiles": "**/*.feature"
+}
