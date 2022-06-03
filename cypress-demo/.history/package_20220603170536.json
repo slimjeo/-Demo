@@ -6,9 +6,7 @@
   "scripts": {
     "launch": "npx cypress open",
     "chrome": "npm run launch -- --browser chrome",
-    "test1": "npx cypress run --spec cypress/integration/test-case/homepage.spec.js --headed",
-    "dependancy-install": "npm run install",
-    "demo": "npx cypress run"
+    "test1": "npx cypress run --spec cypress/integration/test-case/homepage.spec.js --headed"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true,
